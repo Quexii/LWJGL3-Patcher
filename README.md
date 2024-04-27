@@ -9,4 +9,4 @@ This is only useful if you for some reason need to use some features of LWJGL3 i
 4. Run the `main` function
 
 ## Notes
-As to what models are available, check the [LWJGL3](https://www.lwjgl.org/customize) page.
+As to what modules are available, check the [LWJGL3](https://www.lwjgl.org/customize) page.
